@@ -10,8 +10,6 @@ const Header = () => {
                     <h2> HI </h2>
                     <h1>This is Joni kumar das  </h1>
                     <h4>Full Stack Junior Web Application  <span className='text-info'>Develope<span className='text-danger'>er</span></span></h4>
-
-                    {/* <button className='btn p-2 my-3 bold btn-shadow ' style={{ backgroundColor: "purple", color: 'white' }}> Download resume <i className='bi bi-download'></i></button> */}
                     <Resume></Resume>
                 </div>
 
